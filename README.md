@@ -1,3 +1,3 @@
 # aleatorio-front-end
-Audiomp3
+Audio MP3
 Guilherme Pardelhas
